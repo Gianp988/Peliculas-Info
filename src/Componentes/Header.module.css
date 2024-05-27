@@ -1,0 +1,37 @@
+.header {
+  background-color: #333;
+  padding: 10px 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navList {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+}
+
+.navList li {
+  display: inline;
+}
+
+.navList li a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+.navList li a:hover {
+  background-color: #555;
+  border-radius: 5px;
+}
+
+.socialIcon {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}

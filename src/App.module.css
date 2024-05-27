@@ -4,3 +4,17 @@
     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #24345fc0, 0 0 40px #e60073,
       0 0 50px #382ebdc7, 0 0 60px #6d4caa, 0 0 70px #22306e;
   }
+
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  nav li {
+    margin: 0 1rem;
+  }
+  
+  .mainContent {
+    padding-top: 60px; /* Ajusta esto según la altura del header */
+    padding: 20px;
+  }
