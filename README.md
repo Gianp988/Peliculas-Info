@@ -1,5 +1,5 @@
 - Para que este proyecto funcione, el archivo node.js Versión 16.16.0.0. debe estar instalado en el ordenador.
-- Usar el comando " npm i react-router-dom@latest
+- Usar el comando " npm i react-router-dom@latest " para Descargar las Dependencias y componentes.
 # Empezando con Create React App
 
 Este proyecto fue arrancado con [Create React App](https://github.com/facebook/create-react-app).
